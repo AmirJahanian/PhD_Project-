@@ -1,13 +1,10 @@
 % ************************************************************************
-% The code was developed at the Neurosceince Lab, Constructor University (Jacobs University)
+% The code was developed at the Neurosceince Lab, Constructor University Bremen (Jacobs University)
 
-% Contributors to MADE pipeline:
+% Contributors to R pipeline:
 % Amir Jahanian Najafabadi (a.jahaniannajafabadi@jacobs-university.de)
-
+% Prof. Dr. Ben Godde
 % Please cite the following references for in any manuscripts produced utilizing MADE code:
-
-% EEGLAB: A Delorme & S Makeig (2004) EEGLAB: an open source toolbox for
-% analysis of single-trial EEG dynamics. Journal of Neuroscience Methods, 134, 9?21.
 
 % This code is released under the GNU General Public License version 3.
 
